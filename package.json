@@ -1,0 +1,23 @@
+{
+  "name": "learn-module",
+  "version": "1.0.0",
+  "description": "Learn how to create a module.",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qrusadorz/Learn-module.git"
+  },
+  "author": "qrusadorz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qrusadorz/Learn-module/issues"
+  },
+  "homepage": "https://github.com/qrusadorz/Learn-module#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
